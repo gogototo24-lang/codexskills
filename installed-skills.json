@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Android Device Access",
+    "enabled": true
+  },
+  {
+    "name": "skill-installer",
+    "enabled": true
+  },
+  {
+    "name": "sora",
+    "enabled": true
+  },
+  {
+    "name": "telegram-bridge-send",
+    "enabled": true
+  },
+  {
+    "owner": "am-will",
+    "name": "openai-docs",
+    "enabled": true
+  },
+  {
+    "owner": "chindden",
+    "name": "skill-creator",
+    "enabled": true
+  }
+]
