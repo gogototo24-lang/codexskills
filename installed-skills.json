@@ -4,6 +4,10 @@
     "enabled": true
   },
   {
+    "name": "sora",
+    "enabled": true
+  },
+  {
     "owner": "am-will",
     "name": "openai-docs",
     "enabled": true
