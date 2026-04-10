@@ -1,5 +1,13 @@
 [
   {
+    "name": "Android Device Access",
+    "enabled": true
+  },
+  {
+    "name": "CodexUI Dev Mode",
+    "enabled": true
+  },
+  {
     "name": "skill-installer",
     "enabled": true
   },
