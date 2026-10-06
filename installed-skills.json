@@ -16,6 +16,10 @@
     "enabled": true
   },
   {
+    "name": "video-prompt-builder",
+    "enabled": true
+  },
+  {
     "owner": "am-will",
     "name": "openai-docs",
     "enabled": true
